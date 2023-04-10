@@ -2,15 +2,13 @@
 <h3 align="center">Full Stack Developer: Building Tools to Enhance Your Everyday Life</h3>
 
 <h2>About my self</h2>
-<p>Sed auctor, magna eget pulvinar rutrum, ligula turpis convallis felis, in suscipit enim nulla vitae nunc. Ut ante nulla, bibendum vel mollis et, lobortis ut urna. Vivamus malesuada gravida ligula eu ultricies. Duis dapibus finibus ante consequat fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed eu est tempus, tincidunt lectus at, blandit risus. Pellentesque eleifend euismod pharetra. Curabitur et venenatis augue. Quisque dignissim blandit est sed lacinia. Mauris magna mauris, vestibulum sed commodo non, volutpat ac turpis. Etiam gravida mattis erat, et eleifend augue tincidunt id. Nunc dignissim elementum nisi in mollis. Nunc in nibh dui. Nam justo justo, tincidunt at nulla vitae, mattis blandit nisi. Donec dignissim mollis augue, eu efficitur lorem pretium nec.</p>
+<p>I am a highly motivated and dedicated web developer with a strong background in engineering, finance, and operations. My journey in the tech industry began while working at a venture capital-backed retail company where I experienced firsthand the immense impact developers can have on a business. This inspired me to learn coding on my own, developing an app that tracks user habits and provides insights to keep users motivated. I am proficient in JavaScript, both in the front and backend, as well as HTML and CSS. My strong work ethic and diverse experience have prepared me to excel as a Full-Stack Web Developer. I am passionate about creating innovative solutions to complex problems, and I'm eager to contribute my skills to a team that values growth and development.</p>
 
-<h2>About my repositories</h2>
-<p>Sed auctor, magna eget pulvinar rutrum, ligula turpis convallis felis, in suscipit enim nulla vitae nunc. Ut ante nulla, bibendum vel mollis et, lobortis ut urna. Vivamus malesuada gravida ligula eu ultricies. Duis dapibus finibus ante consequat fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed eu est tempus, tincidunt lectus at, blandit risus. Pellentesque eleifend euismod pharetra. Curabitur et venenatis augue. Quisque dignissim blandit est sed lacinia. Mauris magna mauris, vestibulum sed commodo non, volutpat ac turpis. Etiam gravida mattis erat, et eleifend augue tincidunt id. Nunc dignissim elementum nisi in mollis. Nunc in nibh dui. Nam justo justo, tincidunt at nulla vitae, mattis blandit nisi. Donec dignissim mollis augue, eu efficitur lorem pretium nec.</p>
 
 <h2>Projects</h3>
 <h3><a href="https://www.habittus.com/" target="blank">Habittus</a></h3>
 
-  <p>Sed auctor, magna eget pulvinar rutrum, ligula turpis convallis felis, in suscipit enim nulla vitae nunc. Ut ante nulla, bibendum vel mollis et, lobortis ut urna. Vivamus malesuada gravida ligula eu ultricies.</p>
+  <p>Habittus is a web application crafted to empower users in tracking and monitoring their habits effectively. The app boasts a user-friendly interface that enables users to effortlessly log their habits, keep an eye on their progress, and obtain customized insights and suggestions. Habittus stands as a testament to the potential of web development in assisting individuals to reach their goals and enhance their lives.</p>
    <ul>
   <li>Front
     <p><a href="https://github.com/AndresUribe1234/Habits-front">Repository</a> and <a href="https://www.habittus.com/">Deploment</a> <p/>
