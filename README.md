@@ -1,5 +1,5 @@
 <h1 align="center">Andres Uribe</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <h2>About my self</h2>
 <p>I am a highly motivated and dedicated web developer with a strong background in engineering, finance, and operations. My journey in the tech industry began while working at a venture capital-backed retail company where I experienced firsthand the immense impact developers can have on a business. This inspired me to learn coding on my own, developing an app that tracks user habits and provides insights to keep users motivated. I am proficient in JavaScript, both in the front and backend, as well as HTML and CSS. My strong work ethic and diverse experience have prepared me to excel as a Full-Stack Web Developer. I am passionate about creating innovative solutions to complex problems, and I'm eager to contribute my skills to a team that values growth and development.</p>
