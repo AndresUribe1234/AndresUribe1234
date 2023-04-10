@@ -22,7 +22,7 @@
 
 
 <h3>How to reach me</h3>
-<p>📫 How to reach me <a href="mailto:anduri1997@gmail.com">anduri1997@gmail.com</a></p>
+<p>📫 How to reach me <a href="mailto:anduri1997@gmail.com">andres01uribe@gmail.com</a></p>
 
 
 <h3 align="left">Connect with me</h3>
