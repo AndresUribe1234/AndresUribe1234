@@ -11,10 +11,10 @@
   <p>Habittus is a web application crafted to empower users in tracking and monitoring their habits effectively. The app boasts a user-friendly interface that enables users to effortlessly log their habits, keep an eye on their progress, and obtain customized insights and suggestions. Habittus stands as a testament to the potential of web development in assisting individuals to reach their goals and enhance their lives.</p>
    <ul>
   <li>Front
-    <p><a href="https://github.com/AndresUribe1234/Habits-front">Repository</a> and <a href="https://www.habittus.com/">Deploment</a> <p/>
+    <p><a href="https://github.com/AndresUribe1234/Habits-front">Repository</a> and <a href="https://www.habittus.com/">Deployment</a> <p/>
   </li>
     <li>Back
-    <p><a href="https://github.com/AndresUribe1234/Habits-back">Repository</a> and <a href="https://habits-back-three.vercel.app/">Deploment</a> <p/>
+    <p><a href="https://github.com/AndresUribe1234/Habits-back">Repository</a> and <a href="https://habits-back-three.vercel.app/">Deployment</a> <p/>
   </li>
  </ul>
 
