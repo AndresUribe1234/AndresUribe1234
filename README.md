@@ -56,11 +56,6 @@ DynamoDB, MongoDB, <b>Tinybird</b> for real-time analytics, <b>PostHog</b> for p
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<h2>Side projects</h2>
-<ul>
-  <li><a href="https://www.habittus.com/" target="_blank">Habittus</a> — habit-tracking web app I built while learning full-stack development (<a href="https://github.com/AndresUribe1234/Habits-front">front</a> · <a href="https://github.com/AndresUribe1234/Habits-back">back</a>).</li>
-</ul>
-
 <h2>Get in touch</h2>
 <p>
   📫 <a href="mailto:anduri1997@gmail.com">anduri1997@gmail.com</a><br/>
