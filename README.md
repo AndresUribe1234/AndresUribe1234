@@ -43,7 +43,7 @@ DynamoDB, MongoDB, <b>Tinybird</b> for real-time analytics, <b>PostHog</b> for p
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,aws,react,nextjs,nodejs,python,mongodb,dynamodb,tailwind,langchain,git,vscode" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=ts,aws,react,nextjs,nodejs,python,mongodb,dynamodb,tailwind,yarn,git,githubactions" alt="tech stack" />
   </a>
 </p>
 
